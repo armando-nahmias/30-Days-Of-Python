@@ -17,3 +17,5 @@ flask_project/ven/lib
 numpy.ipynb
 .ipynb_checkpoints
 .vscode/
+30days
+pyvenv.cfg
